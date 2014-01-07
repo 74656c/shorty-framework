@@ -1,0 +1,5 @@
+[database]
+server=127.0.0.1
+name=dbname
+user=root
+password=passw0rd
